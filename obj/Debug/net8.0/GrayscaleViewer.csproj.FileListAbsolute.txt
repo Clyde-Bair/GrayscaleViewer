@@ -1,0 +1,14 @@
+C:\Users\MCA-20\source\repos\GrayscaleViewer\bin\Debug\net8.0\GrayscaleViewer.exe
+C:\Users\MCA-20\source\repos\GrayscaleViewer\bin\Debug\net8.0\GrayscaleViewer.deps.json
+C:\Users\MCA-20\source\repos\GrayscaleViewer\bin\Debug\net8.0\GrayscaleViewer.runtimeconfig.json
+C:\Users\MCA-20\source\repos\GrayscaleViewer\bin\Debug\net8.0\GrayscaleViewer.dll
+C:\Users\MCA-20\source\repos\GrayscaleViewer\bin\Debug\net8.0\GrayscaleViewer.pdb
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.AssemblyInfoInputs.cache
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.AssemblyInfo.cs
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.csproj.CoreCompileInputs.cache
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.dll
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\refint\GrayscaleViewer.dll
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.pdb
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\GrayscaleViewer.genruntimeconfig.cache
+C:\Users\MCA-20\source\repos\GrayscaleViewer\obj\Debug\net8.0\ref\GrayscaleViewer.dll
